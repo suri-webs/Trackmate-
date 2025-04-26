@@ -1,4 +1,4 @@
-import AlertComponent from "./YourFolder/alert";
+import AlertComponent from "./YourFolder/Alert";
 
 export default function YourGuide() {
     return (
